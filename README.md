@@ -62,17 +62,16 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-
+This project is about Microverse Linters configuration and ensuring that all linters checks pass, and also adding a simple HTML tag with text and basic CSS styling.  
 
 **[Hello Microverse]** is a simple massage for linter practice
 
 ## 🛠 Built With <a name="built-with"></a>
 
-HTML5 and CSS3
+- HTML
+- CSS
 
 ### Tech Stack <a name="tech-stack"></a>
-
-
 
 <details>
   <summary>Version Control</summary>
