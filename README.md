@@ -123,7 +123,10 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-A compiler such as Visual Studio Code.
+- Visual Studio Code.
+- Node JS.
+- Git bash.
+- GitHub Account.
 
 <!--
 Example command:
@@ -138,16 +141,15 @@ Example command:
 Clone this repository to your desired folder:
 
 Use git clone command or download ZIP folder 
-[git@github.com:tsheporamantso/hello-microverse.git]
 
-<!--
+
 Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:tsheporamantso/hello-microverse.git
 ```
---->
+-
 
 ### Install
 
@@ -196,13 +198,15 @@ Example command:
 
 You can deploy this project using:
 
-<!--
-Example:
+Using GitHub Pages 
+
+
+Example: http(s)://<username>. github.io/<repository> 
 
 ```sh
 
 ```
- -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
