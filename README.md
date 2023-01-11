@@ -201,10 +201,10 @@ You can deploy this project using:
 Using GitHub Pages 
 
 
-Example: http(s)://<username>. github.io/<repository> 
+Example: 
 
 ```sh
-
+    http(s)://<username>. github.io/<repository> 
 ```
 
 
