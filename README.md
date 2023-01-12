@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <!-- <img src="murple_logo.png" alt="logo" width="140"  height="auto" /> -->
   <br/>
 
   <h3><b>Hello Microverse</b></h3>
@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-This project is about Microverse Linters configuration and ensuring that all linters checks pass, and also adding a simple HTML tag with text and basic CSS styling.  
+This project is about Microverse Linters configuration and ensuring that all linters checks pass, and also add & display a simple HTML text and basic CSS styling.  
 
 **[Hello Microverse]** is a simple massage for linter practice
 
@@ -80,14 +80,14 @@ This project is about Microverse Linters configuration and ensuring that all lin
   </ul>
 </details>
 
-<!-- <details>
-  <summary>Server</summary>
+<details>
+  <summary>Visual Studio Code</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://code.visualstudio.com">Visual Studio Code</a></li>
   </ul>
 </details>
 
-<details>
+<!-- <details>
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
@@ -108,7 +108,7 @@ This project is about Microverse Linters configuration and ensuring that all lin
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link]( https://tsheporamantso.github.io/hello-microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,13 +197,13 @@ Example command:
 
 You can deploy this project using:
 
-Using GitHub Pages 
+GitHub Pages 
 
 
 Example: 
 
 ```sh
-    http(s)://<username>. github.io/<repository> 
+     https://tsheporamantso.github.io/hello-microverse/
 ```
 
 
