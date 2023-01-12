@@ -157,14 +157,12 @@ Install this project with:
 
 npm
 
-<!--
 Example command:
 
 ```sh
   cd my-project
-  gem install
+  npm init -y
 ```
---->
 
 ### Usage
 
@@ -172,13 +170,13 @@ To run the project, execute the following command:
 
 npm start or live server
 
-<!--
+
 Example command:
 
 ```sh
-  rails server
+  GitHub Pages Server
 ```
---->
+
 
 ### Run tests
 
@@ -186,13 +184,13 @@ To run tests, run the following command:
 
 npm test
 
-<!--
+
 Example command:
 
 ```sh
-  bin/rails test test/models/article_test.rb
+  npx stylelint "**/*.{css,scss}"
 ```
---->
+
 
 ### Deployment
 
