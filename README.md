@@ -109,7 +109,7 @@ This project is about Microverse Linters configuration and ensuring that all lin
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]( https://tsheporamantso.github.io/hello-microverse/)
+- [https://tsheporamantso.github.io/hello-microverse/](https://tsheporamantso.github.io/hello-microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -204,7 +204,7 @@ GitHub Pages
 Example: 
 
 ```sh
-     https://tsheporamantso.github.io/hello-microverse/
+https://tsheporamantso.github.io/hello-microverse/
 ```
 
 
